@@ -1,0 +1,9 @@
+.spells-container{
+    background-color: limegreen;
+    text-align: center;
+    color: darkblue;
+}
+.spells-list {
+    display: flex;
+
+}

@@ -1,0 +1,29 @@
+.signup-inputs{
+    margin: 10px auto;
+    width: 50%;
+}
+
+.signup-btn{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.signup-form-container{
+    border: 1px solid rgb(255, 230, 5);
+    width: 30%;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(8, 193, 240);
+    
+}
+.text{
+    margin: 120px;
+    width: 600px;
+    height: 600px;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 0%;
+    border-color: chartreuse;
+    background-color: aqua;
+}

@@ -1,0 +1,21 @@
+.book{
+    color:black;
+    margin: 20px;
+    padding: 0%;
+    border: none;
+    box-sizing: border-box;
+    height: 50px;
+}
+ /* .image {  */
+     /* height: 20px;  */
+     /* width: 20px; */
+    /* text-align: left; */
+    /* margin: left; */
+    /* text-align: center; */
+ /* }  */
+ .text{
+    background-color: lightgreen;
+font: 100px;
+text-emphasis-color: 30px;
+text-decoration-color: darkblue;
+ }
